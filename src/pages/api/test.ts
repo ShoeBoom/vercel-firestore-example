@@ -1,5 +1,4 @@
 import { NextApiRequest, NextApiResponse } from "next";
-import { Firestore } from "@google-cloud/firestore";
 
 import {firestore} from '@utils/FirestoreInit'
 
