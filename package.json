@@ -9,7 +9,7 @@
     "emulator": "firebase emulators:start"
   },
   "dependencies": {
-    "@google-cloud/firestore": "^3.8.6",
+    "@google-cloud/firestore": "^4.2.0",
     "next": "^9.3.3",
     "react": "^16.13.0",
     "react-dom": "^16.13.0"
